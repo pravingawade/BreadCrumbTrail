@@ -1,0 +1,181 @@
+Business & Finance\
+-Advertising & Marketing\
+##Conferences and marketing event management\
+##Online marketing/SEO/SEM\
+##Viral Marketing\
+##Guerilla marketing\
+##Traditional Marketing\
+##Public relations\
+-Accounting and Finance\
+-Angels and Private Equity\
+-Business planning\
+-Careers & Employment services\
+-Ecommerce\
+-Employment and labor issues\
+-Entrepreneurs\
+-Financial Planning\
+-Corporations\
+-Credit & Debit\
+-General Management\
+-Insurance\
+-International Business and Operations\
+-Mortgage and Loans\
+-Stock trading and Investing\
+-Personal Finance\
+-Renting & Real Estate\
+-Small Business\
+-Taxes\
+-Translation services\
+-Transcription services\
+-Other - Business & Finance\
+Legal Services\
+-Corporate law\
+-Criminal law\
+-Driving, Accidents and Personal injury\
+-Family and Divorce laws\
+-Immigration law\
+-Insurance Law\
+-Legal research\
+-Paralegal services\
+-Tax law\
+-Wills and Trust\
+Personality Development &  Career Coaching\
+-Building self-esteem and confidence\
+-Career counseling\
+-Interpersonal communication\
+-Motivation\
+-Personal development\
+-Stress and Anger management\
+-Time management\
+-Work life balance\
+-others\
+Counseling Services\
+-Crisis management\
+-Dating issues\
+-Drug Addiction\
+-Eating disorders\
+-Emotional disorders\
+-Parenting\
+-Pastoral and Christian counseling\
+-Personal Relationships\
+-Others\
+Computers & Programming\
+-Application Development\
+##Open source\
+##.Net\
+##Java\
+##COBOL\
+##Tandem\
+##SAP\
+##CRM\
+-Computer & Video Games\
+-Computer Repair \
+-Internet Crawling services\
+-Databases\
+##MySQL\
+##SQL Server\
+##Sybase\
+##Oracle\
+-Handhelds/PDAs\
+-Hardware \
+-Help For Beginners\
+-Internet Searches\
+-Microsoft Excel Help\
+-Middleware\
+#Networking\
+#Office Software\
+#Operating System\
+-Windows\
+-Linux\
+-MAC\
+-Ubuntu\
+-Other (Computers & Programming)\
+-Programming\
+##C, C++\
+##Java, Python, PHP\
+##.Net\
+-Security & Encryption\
+-System Administration\
+-Telecommunication\
+-Web Development\
+-Website Partners\
+-Wireless Technologies\
+Healthcare & Medical\
+-Services\
+-Alternate Medicine\
+-Child & Adolescent Health\
+-Chiropractic Medicine\
+-Cosmetics\
+-Diet & Nutrition\
+-Disabilities\
+-Disorders and Conditions\
+-Drugs and Medicines\
+-Emergency Medicine\
+-Health for Women\
+-Health Insurance and Plans\
+-Infertility\
+-Medical Education\
+-Medical Ethics\
+-Medical Publications\
+-Mental & Emotional Health\
+-Non Clinical\
+-Nursing\
+-Occupational Therapy\
+-Parenting\
+-Pain and Pain management\
+-Personal Fitness\
+-Pharmacology\
+-Physical Therapy\
+-Pregnancy & Childbirth\
+-Public & Environmental Health\
+-Psychological health\
+-Respiratory Therapy\
+-Sexual health and disorders\
+-Specialty Medicine\
+-Speech Therapy\
+Beauty, Fashion & Home\
+-Arts and Antique collection\
+-Beauty & Style\
+-Cooking & Food\
+-Electronics & Gadgets\
+-Event and Party management\
+-Garden & Landscaping\
+-General\
+-Green Living\
+-Homeownership\
+-Pets\
+-Shopping\
+-Others\
+Spirituality & Astrology\
+-Astrology \
+-Career Forecasts\
+-Dream Analysis\
+-Financial Outlook\
+-Fortune Telling \
+-Graphology\
+-Love & Relationships\
+-New Age Spirituality \
+-Numerology \
+-Occult \
+-Palm Reading \
+-Paranormal \
+-Picture Readings\
+-Psychic Reading\
+-Religion\
+-Tarot Reading \
+-Vedic Astrology\
+Arts, Creative & Professional Services\
+-Antiques\
+-Crafts\
+-Event Management\
+-Film & Video\
+-Food & Drink \
+-Graphic and Desktop Design\
+-Media Communications\
+-Music\
+-Performing Arts\
+-Photography\
+-Technical Writing services\
+-Visual Arts\
+-Web Design\
+-Writing Services\
